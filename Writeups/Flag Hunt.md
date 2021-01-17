@@ -36,6 +36,4 @@ And now you have the complete flag
 
 Flag : ```cybergrabs{Y0u_hun7_m3_d0wn_g00d_j0b_buddy_n0w_i_4m_c0mpl3t3d_xD_ff5867594040}```
 
-Only 3 Solves i got on this Challenge GG Guys :)
 
-![img](https://github.com/sachin320/The-CyberGrabs-CTF/blob/main/Chall%20Img/img/tor_solve.PNG)
